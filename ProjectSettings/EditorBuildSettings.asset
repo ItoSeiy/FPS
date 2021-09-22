@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameItem/Scenes/UseScenes/TitleScene.unity
+    guid: 43433a2435d40194483eeaed98655705
+  - enabled: 1
+    path: Assets/GameItem/Scenes/UseScenes/HandgunStage.unity
+    guid: e6a90b80b1326fa4ea6897c096d8ed17
+  - enabled: 1
+    path: Assets/GameItem/Scenes/UseScenes/ARStage.unity
+    guid: 28619aa39db6f694b947af82c05946e4
+  - enabled: 1
+    path: Assets/GameItem/Scenes/UseScenes/SniperStage.unity
+    guid: fcd41a142fa1ad7408a2ce9925bc2fd7
+  - enabled: 1
+    path: Assets/GameItem/Scenes/UseScenes/SetSensitivity.unity
+    guid: e4d7120ec9f193c4a8215d4aa9c12f89
+  m_configObjects: {}
