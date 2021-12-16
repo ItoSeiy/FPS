@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=tXIhbOsrmbk&feature=youtu.be
 
 バンタンゲームアカデミー専門部1年
 
-　　　　``             高等部1年(自分)
+バンタンゲームアカデミー高等部1年(自分)
 
 バンタンゲームアカデミー モデラー 1人
 
