@@ -1,7 +1,6 @@
 # バンタンゲームアカデミー ゲーム制作部 FPSゲーム
+# ゲーム概要
 バンタンゲーム入学一か月、ゲーム制作部にて開発したFPSゲームです
-
-
 ## プレイ動画
 https://www.youtube.com/watch?v=tXIhbOsrmbk&feature=youtu.be
 ## 作業内容 こだわり
