@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=tXIhbOsrmbk&feature=youtu.be
 
 銃、的のモデルはバンタンゲームアカデミー内のモデラーの方に作っていただきました
 
-## 制作人数 構成
+## 制作人数
 
 初めてのチーム制作作品です
 
