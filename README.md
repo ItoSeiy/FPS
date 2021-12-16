@@ -12,7 +12,7 @@
 
 https://www.youtube.com/watch?v=tXIhbOsrmbk&feature=youtu.be
 
-## 作業内容 こだわり
+## 作業内容(伊東聖矢) こだわり
 
 ・プレイヤーの動き
 
